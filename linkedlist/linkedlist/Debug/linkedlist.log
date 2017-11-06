@@ -1,0 +1,4 @@
+﻿  List.cpp
+c:\users\lonewolf\source\repos\linkedlist\linkedlist\list.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\users\lonewolf\source\repos\linkedlist\linkedlist\node.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  linkedlist.vcxproj -> c:\users\lonewolf\source\repos\linkedlist\Debug\linkedlist.exe
